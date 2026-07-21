@@ -92,14 +92,6 @@ https://github.com/samirbastolangit/quiz-game
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirbastolangit&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirbastolangit&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=samirbastolangit&theme=github-dark&hide_border=true"/>
 
 </p>
